@@ -1,7 +1,7 @@
 # CI-CD-project-1
 ## 🏗️ Architectural Highlights & Security Design
 
-Hiring managers can review the technical breakdown of the infrastructure footprint below:
+the technical breakdown of the infrastructure footprint 
 
 ```text
        [ GitHub Actions CI/CD ]

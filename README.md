@@ -1,7 +1,7 @@
 # CI-CD-project-1
 ## 🏗️ Architectural Highlights & Security Design
 
-the technical breakdown of the infrastructure footprint 
+The technical breakdown of the infrastructure footprint 
 
 ```text
        [ GitHub Actions CI/CD ]
